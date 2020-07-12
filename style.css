@@ -1,0 +1,39 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+hr{
+    border: 1px solid grey;
+}
+p{
+    font-size: 14px;
+    margin: 3px;
+}
+.cv{
+    margin-top: 30px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.part1{
+    background-color: #086972;
+    color: white;
+    padding-top: 30px;
+}
+.part2{
+    padding-top: 30px;
+}
+
+.skill{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bar{
+    height: 20px;
+    width: 100%;
+    border: 2px solid grey;
+}
+
+a{
+    display: block;
+}
